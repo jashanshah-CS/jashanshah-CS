@@ -62,9 +62,11 @@
 <div align="center">
 
 <a href="https://github.com/jashanshah-CS/PDF-RAG"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jashanshah-CS&repo=PDF-RAG&theme=github_dark&hide_border=true&border_radius=10" alt="PDF RAG repository" /></a>
-<a href="https://github.com/jashanshah-CS/TestForge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jashanshah-CS&repo=TestForge&theme=github_dark&hide_border=true&border_radius=10" alt="TestForge repository" /></a>
 <a href="https://github.com/jashanshah-CS/Portfolio-Website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jashanshah-CS&repo=Portfolio-Website&theme=github_dark&hide_border=true&border_radius=10" alt="Portfolio Website repository" /></a>
+<a href="https://github.com/jashanshah-CS/TestForge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jashanshah-CS&repo=TestForge&theme=github_dark&hide_border=true&border_radius=10" alt="TestForge repository" /></a>
 <a href="https://github.com/jashanshah-CS/Leetcode-Solutions"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jashanshah-CS&repo=Leetcode-Solutions&theme=github_dark&hide_border=true&border_radius=10" alt="LeetCode Solutions repository" /></a>
+<a href="https://github.com/jashanshah-CS/TypingRaceSimulator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jashanshah-CS&repo=TypingRaceSimulator&theme=github_dark&hide_border=true&border_radius=10" alt="Typing Race Simulator repository" /></a>
+<a href="https://github.com/jashanshah-CS/ChocolateChilliGame"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jashanshah-CS&repo=ChocolateChilliGame&theme=github_dark&hide_border=true&border_radius=10" alt="Chocolate Chilli Game repository" /></a>
 
 </div>
 
@@ -75,7 +77,6 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jashanshah-CS&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&rank_icon=github" alt="Jashan's GitHub statistics" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanshah-CS&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" alt="Jashan's most-used languages" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jashanshah-CS&theme=github-compact&hide_border=true&radius=10&area=true" alt="Jashan's contribution activity graph" />
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jashanshah-CS&theme=github_dark" alt="Jashan's GitHub profile summary" />
 
