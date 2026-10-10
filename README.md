@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=netlify&logoColor=white)](https://jashan-shah.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashan-shah-cs/)
-[![Profile Views](https://komarev.com/ghpvc/?username=jashanshah-CS&style=for-the-badge&color=1f6feb)](https://github.com/jashanshah-CS)
 
 </div>
 
@@ -81,5 +80,9 @@
 ### Let's connect and build something useful 🚀
 
 <sub>Thanks for visiting my profile.</sub>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=jashanshah-CS&style=for-the-badge&color=1f6feb)](https://github.com/jashanshah-CS)
 
 </div>
