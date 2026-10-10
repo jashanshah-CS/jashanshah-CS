@@ -1,6 +1,6 @@
-<div align="center">
+![Jashan Shah Header](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:238636&height=190&section=header&text=Jashan%20Shah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=18)
 
-# Hi, I'm Jashan Shah 👋
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Computer+Science+Student+%40+QMUL;Building+with+Java%2C+Python+and+TypeScript;Interested+in+AI%2C+Backend+and+Software+Engineering)](https://git.io/typing-svg)
 
@@ -103,3 +103,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=jashanshah-CS&style=for-the-badge&color=1f6feb)](https://github.com/jashanshah-CS)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:58A6FF&height=100&section=footer&animation=fadeIn)
