@@ -1,8 +1,6 @@
-![Jashan Shah Header](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:238636&height=190&section=header&text=Jashan%20Shah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=18)
+![Jashan Shah Header](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:238636&height=190&section=header&text=Jashan%20Shah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=18)<div align="center">
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Computer+Science+Student+%40+QMUL;Interested+in+AI%2C+Backend+and+Software+Engineering)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Computer+Science+Student+%40+QMUL;Interested+in+AI%2C+Backend+and+Software+Engineering" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=netlify&logoColor=white)](https://jashan-shah.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashan-shah-cs/)
