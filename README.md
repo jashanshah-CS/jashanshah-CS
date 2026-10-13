@@ -98,8 +98,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jashanshah-CS&style=for-the-badge&color=1f6feb)](https://github.com/jashanshah-CS)
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:58A6FF&height=100&section=footer&animation=fadeIn)
