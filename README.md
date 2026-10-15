@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jashanshah-CS&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Jashan's GitHub contribution streak" />
+<img src="https://raw.githubusercontent.com/jashanshah-CS/jashanshah-CS/main/assets/contribution-streak-dated.svg" alt="Jashan's GitHub contribution streak" />
 
 </div>
 
