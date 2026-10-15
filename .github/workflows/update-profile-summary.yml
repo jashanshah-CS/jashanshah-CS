@@ -1,0 +1,53 @@
+name: Update dated GitHub summary card
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile-summary.yml"
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Download card and insert current date
+        shell: bash
+        run: |
+          mkdir -p assets
+          curl --fail --silent --show-error --location \
+            "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jashanshah-CS&theme=github_dark" \
+            --output assets/profile-details-dated.svg
+          CURRENT_DATE="$(TZ=Europe/London date '+%b %-d, %Y')"
+          CURRENT_DATE="$CURRENT_DATE" python - <<'PY'
+          import os
+          from pathlib import Path
+
+          path = Path("assets/profile-details-dated.svg")
+          svg = path.read_text(encoding="utf-8")
+          if "Present" not in svg:
+              raise SystemExit("The generated card no longer contains the expected Present label.")
+          svg = svg.replace("Present", os.environ["CURRENT_DATE"], 1)
+          path.write_text(svg, encoding="utf-8")
+          PY
+
+      - name: Commit refreshed card
+        shell: bash
+        run: |
+          if git diff --quiet -- assets/profile-details-dated.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-details-dated.svg
+          git commit -m "chore: refresh dated profile summary"
+          git push
