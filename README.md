@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jashanshah-CS&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&rank_icon=github" alt="Jashan's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashanshah-CS&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Jashan's most-used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jashanshah-CS&theme=github_dark" alt="Jashan's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jashanshah-CS&theme=github_dark" alt="Jashan's most-used languages" />
 
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jashanshah-CS&theme=github_dark" alt="Jashan's GitHub profile summary" />
